@@ -12,7 +12,8 @@
 - ⚡ Fun fact: ...
 -->
 
-Researcher at Universitat Autònoma de Barcelona, Spain.
+Researcher at Barcelona Supercomputer Center
+Lecturer at Universitat Autònoma de Barcelona
 
 
 
