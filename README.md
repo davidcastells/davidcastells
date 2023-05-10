@@ -1,7 +1,8 @@
 ### 👋 Introduction
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 
-![status](https://img.shields.io/badge/status-up-brightgreen)  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/davidcastells)
+![status](https://img.shields.io/badge/status-up-brightgreen) 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=github.com/davidcastells) -->
 <!--:
 
 
@@ -13,7 +14,8 @@
 -->
 
 Researcher at Barcelona Supercomputer Center
-Lecturer at Universitat Autònoma de Barcelona
+
+Tenure Track Professor at Universitat Autònoma de Barcelona
 
 
 
