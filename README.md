@@ -14,6 +14,7 @@
 -->
 
 Tenure Track Professor at Universitat Autònoma de Barcelona
+
 Researcher at Barcelona Supercomputer Center
 
 
