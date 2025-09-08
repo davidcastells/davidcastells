@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-Tenure Track Professor at Universitat Autònoma de Barcelona
+Associate Professor at Universitat Autònoma de Barcelona
 
 Researcher at Barcelona Supercomputer Center
 
