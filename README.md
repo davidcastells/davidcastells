@@ -56,4 +56,4 @@ You can check my current pulished articles and conferences at :green_book: [**Re
 
 ## 💻 Open Source Work Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidcastells)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=davidcastells)](https://github.com/stats-organization/github-stats-extended)
